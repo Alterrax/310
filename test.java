@@ -1,1 +1,1 @@
-String alvina = Alvina;
+String alvina = 'Alvina';
