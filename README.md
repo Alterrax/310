@@ -1,3 +1,3 @@
-# 310
+# github-lab
 
-This is our project.
+This is the github-lab assignment.
